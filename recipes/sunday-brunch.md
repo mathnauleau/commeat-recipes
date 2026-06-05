@@ -1,5 +1,5 @@
 ---
-title: 'Sunday Brunch'
+title: 'Sunday Sunny Brunch'
 origin: ''
 imported_from: 'manual entry'
 committed_at: '2026-06-05'
