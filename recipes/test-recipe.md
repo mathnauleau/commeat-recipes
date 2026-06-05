@@ -1,11 +1,11 @@
 ---
-title: 'Test recipe'
-origin: ''
+title: 'Mathieu Test recipe'
+origin: 'ricardo'
 imported_from: 'manual entry'
 committed_at: '2026-06-05'
 version: 1
 fork_of: null
-tags: [Italian]
+tags: [Persian]
 prep_time: ''
 cook_time: ''
 servings: 2
