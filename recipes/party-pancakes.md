@@ -1,17 +1,3 @@
----
-
-title: 'Party Pancakes'
-origin: 'Roxane'
-imported_from: 'handwritten card'
-committed_at: '2026-06-05'
-version: 4
-fork_of: null
-tags: ['breakfast', 'pancakes']
-prep_time: '10 min'
-cook_time: '20 min'
-servings: 4
------------
-
 # Marie's Pancakes
 
 > Never overmix the batter. A few lumps are a good sign.
