@@ -43,4 +43,4 @@ The secret is patience on step 4. A wide pan matters — too deep and it steams 
 | v1 | 2024-03-12 | Exactly as found on the card |
 | v2 | 2024-08-01 | Added pinch of sugar — mellows the acidity |
 | v3 | 2024-12-24 | Christmas batch — doubled it, still perfect |
-| v4 | 2026-06-05 | Title, just Marie |
+| v4 | 2026-06-05 |  |
