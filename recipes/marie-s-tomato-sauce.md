@@ -5,7 +5,7 @@ imported_from: 'handwritten card'
 committed_at: '2026-06-05'
 version: 4
 fork_of: null
-tags: [italian, sauce, family]
+tags: ['italian', 'sauce', 'family']
 prep_time: '15 min'
 cook_time: '45 min'
 servings: 4
@@ -43,4 +43,4 @@ The secret is patience on step 4. A wide pan matters — too deep and it steams 
 | v1 | 2024-03-12 | Exactly as found on the card |
 | v2 | 2024-08-01 | Added pinch of sugar — mellows the acidity |
 | v3 | 2024-12-24 | Christmas batch — doubled it, still perfect |
-| v4 | 2026-06-05 | Name |
+| v4 | 2026-06-05 | Title, just Marie |
