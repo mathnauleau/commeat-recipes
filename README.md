@@ -8,7 +8,6 @@
 | [Marie S Tomato Sauce](recipes/marie-s-tomato-sauce.md) | `recipes/marie-s-tomato-sauce.md` |
 | [Pasta Bolognese](recipes/pasta-bolognese.md) | `recipes/pasta-bolognese.md` |
 | [Sunday Brunch With Salmon](recipes/sunday-brunch-with-salmon.md) | `recipes/sunday-brunch-with-salmon.md` |
-| [Sunday Brunch](recipes/sunday-brunch.md) | `recipes/sunday-brunch.md` |
 | [Weeknight Pasta Carbonara](recipes/weeknight-pasta-carbonara.md) | `recipes/weeknight-pasta-carbonara.md` |
 
 ---
