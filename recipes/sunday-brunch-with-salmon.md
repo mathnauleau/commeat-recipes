@@ -1,17 +1,6 @@
----
-title: 'Sunday Brunch with salmon'
-origin: ''
-imported_from: 'manual entry'
-committed_at: '2026-06-05'
-version: 1
-fork_of: null
-tags: []
-prep_time: ''
-cook_time: ''
-servings: 2
----
-
 # Sunday Brunch with salmon
+
+**Tags:** Brunch
 
 ## Ingredients
 
