@@ -2,6 +2,9 @@
 
 **Tags:** Breakfast
 
+<img width="1664" height="832" alt="image" src="https://github.com/user-attachments/assets/bd21ff13-0029-450c-9262-294e2f5fe644" />
+
+
 > Never overmix the batter. A few lumps are a good sign.
 
 ## Ingredients
