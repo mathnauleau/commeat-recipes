@@ -4,6 +4,8 @@
 
 <img width="1664" height="832" alt="image" src="../img/pancakes.jpg" />
 
+![My dish](img/pancakes.jpg)
+
 > Never overmix the batter. A few lumps are a good sign.
 
 ## Ingredients
