@@ -1,6 +1,10 @@
 
 # Marie's Tomato Sauce
 
+| prep_time | cook_time | servings |
+| --- | --- | --- |
+| '15 min' | '45 min' | 4 |
+
 > Always use San Marzano, never anything else.
 
 ## Ingredients
@@ -24,17 +28,8 @@
 
 The secret is patience on step 4. A wide pan matters — too deep and it steams instead of reducing.
 
-title: 'Marie''s Tomato Sauce'
-origin: 'Grandma Marie'
-imported_from: 'handwritten card'
-committed_at: '2026-06-05'
-version: 4
-fork_of: null
+title: 'Marie Tomato Sauce'
 tags: ['italian', 'sauce', 'family']
-prep_time: '15 min'
-cook_time: '45 min'
-servings: 4
-
 
 ## Commit History
 
