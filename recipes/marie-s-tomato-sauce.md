@@ -1,15 +1,3 @@
----
-title: 'Marie''s Tomato Sauce'
-origin: 'Grandma Marie'
-imported_from: 'handwritten card'
-committed_at: '2026-06-05'
-version: 4
-fork_of: null
-tags: ['italian', 'sauce', 'family']
-prep_time: '15 min'
-cook_time: '45 min'
-servings: 4
----
 
 # Marie's Tomato Sauce
 
@@ -35,6 +23,18 @@ servings: 4
 ## Notes
 
 The secret is patience on step 4. A wide pan matters — too deep and it steams instead of reducing.
+
+title: 'Marie''s Tomato Sauce'
+origin: 'Grandma Marie'
+imported_from: 'handwritten card'
+committed_at: '2026-06-05'
+version: 4
+fork_of: null
+tags: ['italian', 'sauce', 'family']
+prep_time: '15 min'
+cook_time: '45 min'
+servings: 4
+
 
 ## Commit History
 
