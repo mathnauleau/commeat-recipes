@@ -1,6 +1,6 @@
 # Cake au citron et aux graines de pavot
 
-Tags: Gâteau
+**Tags:** Gâteau
 
 <img width="1664" height="832" alt="Cake au citron et aux graines de pavot" src="https://www.ricardocuisine.com/images/recettes/zoom/7866-cake-au-citron-et-aux-graines-de-pavot-le-meilleur.jpg" />
 
