@@ -2,7 +2,7 @@
 
 **Tags:** Gâteau
 
-<img width="1664" height="832" alt="Cake au citron et aux graines de pavot" src="https://www.ricardocuisine.com/images/recettes/zoom/7866-cake-au-citron-et-aux-graines-de-pavot-le-meilleur.jpg" />
+<img alt="Cake au citron et aux graines de pavot" src="https://images.ricardocuisine.com/services/recipes/992x1340_pavot-portrait.jpg" />
 
 > Goûtez vos graines de pavot avant de les utiliser : comme les noix, elles peuvent rancir avec le temps. Un glaçage appliqué sur un cake complètement refroidi donnera une finition plus lisse et brillante.
 
