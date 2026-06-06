@@ -2,11 +2,7 @@
 
 **Tags:** Breakfast
 
-<img width="1664" height="832" alt="image" src="../img/pancakes.jpg" />
-
 <img width="1664" height="832" alt="image" src="https://eggs.ca/wp-content/uploads/2024/06/fluffy-pancakes-1664x832-1.jpg" />
-
-![Pancakes](../img/pancakes.jpg)
 
 > Never overmix the batter. A few lumps are a good sign.
 
