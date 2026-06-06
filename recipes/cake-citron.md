@@ -4,48 +4,70 @@
 
 <img alt="Cake au citron et aux graines de pavot" src="https://images.ricardocuisine.com/services/recipes/992x1340_pavot-portrait.jpg" />
 
-> Goûtez vos graines de pavot avant de les utiliser : comme les noix, elles peuvent rancir avec le temps. Un glaçage appliqué sur un cake complètement refroidi donnera une finition plus lisse et brillante.
+> Pour un goût de citron plus intense, préparez le cake la veille. Les arômes auront le temps de se développer et la texture sera encore plus moelleuse.
 
-## Ingredients
+## Ingrédients
 
-### Lemon Poppy Seed Cake
+### Cake
 
-* 265g all-purpose flour
-* 15ml (1 tbsp) poppy seeds
-* 10ml (2 tsp) baking powder
-* 115g unsalted butter, softened
-* 265g sugar
-* Zest of 3 lemons, finely grated
-* 3 eggs
-* 125ml lemon juice
-* 60ml milk
+* 265 g de farine tout usage
 
-### Lemon Glaze
+* 15 ml (1 c. à soupe) de graines de pavot
 
-* 130g icing sugar
-* 30ml (2 tbsp) lemon juice
+* 10 ml (2 c. à thé) de poudre à pâte
 
-## Steps
+* 115 g de beurre non salé, ramolli
 
-1. Preheat the oven to 180°C (350°F).
-2. Butter a 25 × 10 cm (10 × 4 in) loaf pan and line it with parchment paper, leaving an overhang on two sides.
-3. In a bowl, combine the flour, poppy seeds, and baking powder.
-4. In a separate bowl, cream together the butter, sugar, and lemon zest using an electric mixer.
-5. Add the eggs and mix until smooth and homogeneous.
-6. Gradually incorporate the dry ingredients, alternating with the lemon juice and milk.
-7. Pour the batter into the prepared loaf pan.
-8. Bake for approximately 1 hour, or until a toothpick inserted in the center comes out clean.
-9. Let the cake cool completely on a wire rack before unmolding.
-10. For the glaze, whisk together the icing sugar and lemon juice until smooth.
-11. Place the cooled cake on a serving plate and pour the glaze over the top.
-12. Allow the glaze to set before slicing and serving.
+* 265 g de sucre
+
+* Le zeste de 3 citrons
+
+* 3 œufs
+
+* 125 ml de jus de citron
+
+* 60 ml de lait
+
+### Glaçage
+
+* 130 g de sucre à glacer
+
+* 30 ml (2 c. à soupe) de jus de citron
+
+## Étapes
+
+1. Chauffer le four à 180 °C (350 °F).
+
+2. Graisser un moule à pain d’environ 25 × 10 cm et le chemiser de papier parchemin en laissant dépasser le papier sur les côtés pour faciliter le démoulage.
+
+3. Dans un bol, réunir la farine, les graines de pavot et la poudre à pâte. Mélanger puis réserver.
+
+4. Dans un autre récipient, fouetter le beurre avec le sucre et le zeste de citron jusqu’à obtenir une préparation légère et crémeuse.
+
+5. Incorporer les œufs un à un en mélangeant bien après chaque ajout.
+
+6. Ajouter les ingrédients secs en alternant avec le jus de citron et le lait, juste assez pour obtenir une pâte homogène.
+
+7. Verser la préparation dans le moule et lisser légèrement la surface.
+
+8. Cuire environ 60 minutes, jusqu’à ce qu’un cure-dent inséré au centre ressorte propre.
+
+9. Laisser refroidir le cake dans son moule pendant quelques minutes, puis le transférer sur une grille et attendre qu’il soit complètement refroidi.
+
+10. Préparer le glaçage en mélangeant le sucre à glacer avec le jus de citron jusqu’à l’obtention d’une texture lisse.
+
+11. Déposer le cake refroidi sur un plat de service et napper le dessus avec le glaçage.
+
+12. Patienter quelques minutes afin que le glaçage fige avant de couper et servir.
 
 ## Notes
 
-This recipe produces a moist, intensely lemony loaf with a delicate crunch from the poppy seeds. For the best flavor, use fresh lemons and finely grate only the yellow part of the zest to avoid bitterness. The cake keeps well for several days in an airtight container and is excellent with tea or coffee.
+Ce cake offre un bel équilibre entre l’acidité du citron et le croquant discret des graines de pavot. Utilisez de préférence des citrons non traités puisque le zeste joue un rôle important dans la saveur finale. Le cake se conserve plusieurs jours dans une boîte hermétique à température ambiante.
 
-## Commit History
+## Historique des versions
 
-| version | date       | message                                   |
-| ------- | ---------- | ----------------------------------------- |
-| v1      | 2026-06-06 | Adapted from Ricardo Cuisine recipe |
+| version | date       | message |
+
+| ------- | ---------- | ------- |
+
+| v1 | 2026-06-06 | Adaptation fidèle de la recette Ricardo Cuisine |
