@@ -1,6 +1,8 @@
 
 # Marie's Tomato Sauce
 
+**Tags:** Sauce
+
 | prep_time | cook_time | servings |
 | --- | --- | --- |
 | '15 min' | '45 min' | 4 |
