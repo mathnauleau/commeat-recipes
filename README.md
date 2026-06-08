@@ -12,11 +12,11 @@
 | [Marie S Pancakes](recipes/marie-s-pancakes.md) | `recipes/marie-s-pancakes.md` |
 | [Marie S Tomato Sauce](recipes/marie-s-tomato-sauce.md) | `recipes/marie-s-tomato-sauce.md` |
 | [Norvegian Waffle](recipes/norvegian-waffle.md) | `recipes/norvegian-waffle.md` |
-| [Pasta Bolognese](recipes/pasta-bolognese.md) | `recipes/pasta-bolognese.md` |
 | [Porc Au Caramel](recipes/porc-au-caramel.md) | `recipes/porc-au-caramel.md` |
 | [Pouding Aux Fruits Surgeles](recipes/pouding-aux-fruits-surgeles.md) | `recipes/pouding-aux-fruits-surgeles.md` |
 | [Risotto Aux Champignons](recipes/risotto-aux-champignons.md) | `recipes/risotto-aux-champignons.md` |
 | [Spicy Mushroom Lasagne](recipes/spicy-mushroom-lasagne.md) | `recipes/spicy-mushroom-lasagne.md` |
+| [Sunday Brunch With Salmon](recipes/sunday-brunch-with-salmon.md) | `recipes/sunday-brunch-with-salmon.md` |
 | [Tarte Tatin](recipes/tarte-tatin.md) | `recipes/tarte-tatin.md` |
 | [Tomato Garlic Orzo](recipes/tomato-garlic-orzo.md) | `recipes/tomato-garlic-orzo.md` |
 | [Wok De Poulet Aux Nouilles Et L Gumes](recipes/wok-de-poulet-aux-nouilles-et-l-gumes.md) | `recipes/wok-de-poulet-aux-nouilles-et-l-gumes.md` |
