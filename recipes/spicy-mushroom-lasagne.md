@@ -1,7 +1,7 @@
 # Spicy Mushroom Lasagne
 **Tags:** Dinner, Vegetarian, Pasta
 
-<img alt="Spicy Mushroom Lasagne" src="https://i0.wp.com/www.everopensauce.com/wp-content/uploads/2021/11/Spicy-Mushroom-Lasagne-Ottolenghi-1.jpg" />
+<img alt="Spicy Mushroom Lasagne" src="https://ottolenghi.co.uk/cdn/shop/files/Spicy_mushroom_lasagne.jpg?v=1716188132&width=1000" />
 
 > A deeply umami, spicy mushroom ragù layered with pasta and two cheeses. A meatless lasagne that gives any meat ragù a run for its money. Serves six as a main.
 
