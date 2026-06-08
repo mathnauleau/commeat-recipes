@@ -1,4 +1,4 @@
-# One-pot Tomato & Garlic Orzo
+# Tomato & Garlic Orzo
 
 **Tags:** Meal
 
