@@ -1,7 +1,7 @@
 # Porc au Caramel
 **Tags:** Dîner
 
-<img alt="Porc au Caramel" src="https://img-3.journaldesfemmes.fr/miel-gingembre-sauce-soja/image.jpg" />
+<img alt="Porc au Caramel" src="https://lustensile.fr/wp-content/uploads/2026/01/recette_saut_de_porc.jpg" />
 
 > Viande de porc tendre et dorée, enrobée d'une marinade parfumée au miel, au gingembre et aux quatre épices, mijotée dans une sauce caramélisée à la sauce soja. Un plat généreux aux saveurs douces et profondes.
 
