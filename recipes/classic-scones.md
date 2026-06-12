@@ -1,5 +1,6 @@
 # Classic Scones
 **Tags:** Brunch
+**PrepTime:** 30min
 
 <img alt="Classic Scones" src="https://tarasmulticulturaltable.com/wp-content/uploads/2015/03/Irish-Scones-3-of-4.jpg" />
 
