@@ -1,5 +1,5 @@
 # Confit Garlic Hummus with Grilled Mushrooms
-**Tags:** Brunch, Mezze, Vegetarian
+**Tags:** Vegetarian
 
 <img alt="Confit Garlic Hummus with Grilled Mushrooms" src="http://static1.squarespace.com/static/568e8fe6b204d5cbecd5c77e/t/60b92665a44b1066037bd7ae/1622746790110/Confit%2BHummus%2BGrilled%2BMushrooms%2BFlavor-8448.jpg?format=1500w" />
 
