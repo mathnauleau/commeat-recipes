@@ -11,7 +11,7 @@
 * 1 tasse de farine tamisée
 * 1 c. à café de poudre à pâte
 * 1 pincée de sel
-* 1/4 de tasse (6 c. à soupe) de beurre ramolli
+* 1/4 de tasse de beurre ramolli
 * 1 œuf
 * 1 c. à café d'extrait de vanille
 * 1/2 tasse de lait
