@@ -1,6 +1,6 @@
 # Tomato & Garlic Orzo
 
-**Tags:** Meal
+**Tags:** Dinner
 
 <img alt="Orzo tomato" src="https://www.provecho.co/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd27yihoo%2Fimage%2Fupload%2Fv1716343266%2Fhba3ece6ocb30kffl99d.webp&w=3840&q=75" />
 
