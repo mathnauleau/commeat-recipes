@@ -35,6 +35,10 @@
 * Chèvre, saumon fumé, crème fraîche, ciboulette, citron (La Renard)
 * Bacon, camembert, pommes de terre, œuf, oignons confits, oignons frits (La Viking)
 
+## Notes et conseils
+* La recette d'origine ne contient pas de beurre dans la pâté.
+* Les petits insectes que l'on trouve parfois dans la farine (comme les charançons, les mites alimentaires ou les petits acariens/cirons) ne sont pas toxiques ni dangereux pour la santé humaine si vous en ingérez accidentellement. Pour éviter qu'ils apparaissent, il est recommandé de conserver la farine dans un contenant en verre hermétique ou de placer la farine neuve au congélateur quelques jours.
+
 [Marmiton — Pâte à galettes de blé noir traditionnelle](https://www.marmiton.org/recettes/recette_la-pate-a-galettes-de-ble-noir-traditionnelle_35351.aspx)
 
 ## Version History
