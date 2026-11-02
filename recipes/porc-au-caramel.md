@@ -1,5 +1,5 @@
 # Porc au Caramel
-**Tags:** Dîner
+**Tags:** Dinner
 
 <img alt="Porc au Caramel" src="https://lustensile.fr/wp-content/uploads/2026/01/recette_saut_de_porc.jpg" />
 
