@@ -1,5 +1,5 @@
 # Lasagnes à la bolognaise
-**Tags:** Dîner, Pâtes, Italien
+**Tags:** Dinner
 
 <img alt="Lasagnes à la bolognaise" src="https://www.undejeunerdesoleil.com/wp-content/uploads/2020/01/lasagnes-bolognaise-recette-italienne-4.jpg" />
 
