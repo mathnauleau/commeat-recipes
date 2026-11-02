@@ -1,5 +1,5 @@
 # Galettes de blé noir
-**Tags:** Dîner
+**Tags:** Dinner
 **PrepTime:** 20min
 
 
