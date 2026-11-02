@@ -29,6 +29,11 @@
 * Jambon, œuf, fromage (complète)
 * Chèvre, miel, noix
 * Saumon, crème fraîche, épinards
+* Œuf, Emmental, jambon, champignons frais (La Complète Champignons Frais)
+* Saint-Nectaire, champignons à la crème, parmesan, épinards, œuf, sauce ail et persil (La Cueillette)
+* Curé nantais, saumon fumé, pommes de terre, crème fraîche, ciboulette, citron (L'Augustine)
+* Chèvre, saumon fumé, crème fraîche, ciboulette, citron (La Renard)
+* Bacon, camembert, pommes de terre, œuf, oignons confits, oignons frits (La Viking)
 
 [Marmiton — Pâte à galettes de blé noir traditionnelle](https://www.marmiton.org/recettes/recette_la-pate-a-galettes-de-ble-noir-traditionnelle_35351.aspx)
 
@@ -36,3 +41,4 @@
 | version | date       | message |
 | ------- | ---------- | ------- |
 | v1 | 2026-06-08 | Recette de maman |
+| v2 | 2026-11-02 | Recettes Crêperie Le loup, le renard et la galette |
