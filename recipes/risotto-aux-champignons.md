@@ -1,5 +1,5 @@
 # Risotto aux champignons
-**Tags:** Dîner, Végétarien
+**Tags:** Dinner
 
 <img alt="Risotto aux champignons" src="https://images.ricardocuisine.com/services/recipes/portrait-risotto-mush-1595533224.jpg" />
 
