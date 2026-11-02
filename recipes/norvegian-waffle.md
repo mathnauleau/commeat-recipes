@@ -1,6 +1,6 @@
 # Norwegian Waffles
 
-**Tags:** Brunch
+**Tags:** Breakfast
 
 <img alt="Norwegian Waffles" src="https://thestayathomechef.com/wp-content/uploads/2017/05/Easy-Norwegian-Waffles-1200x720.jpg" />
 
