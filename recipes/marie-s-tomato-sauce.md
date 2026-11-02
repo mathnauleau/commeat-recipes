@@ -7,6 +7,8 @@
 | --- | --- | --- |
 | '15 min' | '45 min' | 4 |
 
+<img width="1200" height="1799" alt="image" src="https://github.com/user-attachments/assets/8ff9cd02-b31b-4c1e-ad35-823bb75a363c" />
+
 > Always use San Marzano, never anything else.
 
 ## Ingredients
