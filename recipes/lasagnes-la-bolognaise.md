@@ -1,7 +1,8 @@
 # Lasagnes à la bolognaise
 **Tags:** Dinner
 
-<img alt="Lasagnes à la bolognaise" src="https://www.undejeunerdesoleil.com/wp-content/uploads/2020/01/lasagnes-bolognaise-recette-italienne-4.jpg" />
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/42a65a69-f317-4118-964b-0c51c68cf99b" />
+
 
 > Des lasagnes généreuses et réconfortantes, alternant sauce bolognaise maison, béchamel onctueuse et fromage fondu. Un classique familial qui régale à tous les coups. Pour 6 personnes.
 
