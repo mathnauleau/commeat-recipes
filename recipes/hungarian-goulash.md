@@ -1,4 +1,4 @@
-# Authentic Hungarian Goulash (Gulyás)
+# Hungarian Goulash (Gulyás)
 **Tags:** Dinner
 
 <img alt="Authentic Hungarian Goulash" src="https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-17.jpg" />
