@@ -1,5 +1,5 @@
 # Wok de Poulet aux Nouilles et Légumes
-**Tags:** Dîner
+**Tags:** Dinner
 
 <img alt="Wok de Poulet aux Nouilles et Légumes" src="https://img-3.journaldesfemmes.fr/WbB_q02ITuFA3kEkvvHWY_-ci98=/750x500/c778d188454046e7b95c86d3172b0c50/ccmcms-jdf/39688659.jpg" />
 
