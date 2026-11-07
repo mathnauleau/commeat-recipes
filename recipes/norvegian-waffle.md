@@ -22,20 +22,15 @@
 
 ## Steps
 
-1. Melt the butter and set it aside to cool slightly.
-2. In a large mixing bowl, whisk together the eggs and sugar until light and slightly frothy.
-3. Add the milk and mix until combined.
-4. Add the flour, vanilla sugar, baking powder, baking soda, and cardamom.
-5. Whisk until the batter is smooth and free of lumps.
-6. Gradually add the water, stirring until the batter reaches a smooth consistency. The batter should be neither too thick nor too runny.
-7. Stir in the cooled melted butter until fully incorporated.
-8. Let the batter rest for 15–30 minutes.
-9. Preheat a Norwegian-style heart-shaped waffle iron.
+1. Melt the butter and let it cool off.
+2. In a large mixing bowl, whisk together the eggs and sugar.
+3. Add the milk, flour, vanilla sugar, baking powder, baking soda, and cardamom, and whisk until there are no lumps.
+5. Gradually add some water (or more milk) until you get a smooth batter. Not too thin, not too thick.
+8. Incorporate the cooled melted butter.
+9. Let the batter rest for 15–30 minutes.
 10. Lightly grease the iron with butter if needed.
-11. Pour enough batter onto the center of the iron to cover the cooking surface.
-12. Close the lid and cook for 2–4 minutes, until the waffle is golden brown and crisp.
-13. Carefully remove the waffle and place it on a wire rack while cooking the remaining batter.
-14. Serve warm with your favorite toppings.
+12. Cook for 2–4 minutes, until the waffle is golden brown and crisp.
+15. Serve warm with your favorite toppings.
 
 ## Notes
 
