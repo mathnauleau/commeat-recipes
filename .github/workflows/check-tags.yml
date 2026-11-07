@@ -1,0 +1,32 @@
+name: Check recipe tags
+
+on:
+  push:
+    branches: [main]
+    paths: ["recipes/**.md", ".github/allowed-tags.txt"]
+  workflow_dispatch:
+
+jobs:
+  tags:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Warn on non-compliant tags
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          # Push to main: check recipes changed in this push. Manual run / new branch: check all.
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ] \
+             && git cat-file -e "$BEFORE^{commit}" 2>/dev/null \
+             && ! git diff --quiet "$BEFORE" HEAD -- .github/allowed-tags.txt; then
+            python3 .github/scripts/check_tags.py   # list changed -> recheck everything
+          elif [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ] \
+             && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            files=$(git diff --name-only --diff-filter=AM "$BEFORE" HEAD -- 'recipes/*.md')
+            python3 .github/scripts/check_tags.py $files
+          else
+            python3 .github/scripts/check_tags.py
+          fi

@@ -1,0 +1,11 @@
+# Allowed recipe tags (one per line, case-sensitive). Edit this list to change what is accepted.
+Breakfast
+Brunch
+Lunch
+Dinner
+Dessert
+Snack
+Starter
+Side
+Sauce
+Drink
