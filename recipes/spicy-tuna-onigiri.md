@@ -1,5 +1,5 @@
 # Spicy Tuna Onigiri
-**Tags:** Snack
+**Tags:** Snackkk
 
 <img alt="Spicy Tuna Onigiri" src="https://www.abeautifulplate.com/wp-content/uploads/2017/08/spicy-tuna-onigiri-3.jpg" />
 
