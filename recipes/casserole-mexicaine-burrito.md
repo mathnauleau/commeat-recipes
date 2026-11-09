@@ -1,5 +1,5 @@
 # Casserole mexicaine « burrito »
-**Tags:** Dîner
+**Tags:** Dinner
 
 <img alt="Casserole mexicaine « burrito »" src="https://images.ricardocuisine.com/services/recipes/7446.jpg" />
 
