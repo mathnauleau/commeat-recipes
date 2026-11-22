@@ -1,7 +1,7 @@
 # Tarte Tatin
 **Tags:** Dessert
 
-<img alt="Tarte Tatin" src="https://files.meilleurduchef.com/mdc/photo/recette/tarte-tatin/tarte-tatin-1200.jpg" />
+<img alt="Tarte Tatin" src="https://sf1.aufeminin.com/wp-content/uploads/aufeminin/2026/10/le-chef-philippe-etchebest-partage-sa-recette-de-tarte-tatin-toute-ma-famille-me-la-reclame-moment-1200x660.jpeg" />
 
 > La tarte aux pommes caramélisées cuite à l'envers, un classique de la cuisine française né en Sologne au XIXe siècle. Servie tiède avec une cuillère de crème fraîche ou une boule de glace vanille. Pour 6 à 8 personnes.
 
