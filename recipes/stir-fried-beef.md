@@ -1,7 +1,7 @@
 # Stir-Fried Beef with Leeks and Onions
 **Tags:** Dinner
 
-<img alt="Stir-Fried Beef with Leeks and Onions" src="https://www.seriouseats.com/thmb/1THpmB6jPZPzv3fM9rVtVjN1r2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230329-SEA-BeefLeeksOnions-AmandaSuarez-hero-a2d5f8bdb4b04b7abf1e3e3db02d4ac3.jpg" />
+<img alt="Stir-Fried Beef with Leeks and Onions" src="https://www.seriouseats.com/thmb/EhLRWb9QV9oMJIKQpwl8nkI_PIA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/easy-stir-fried-beef-leeks-onions-recipe-hero-crop-04withrice-ed2dc173d6c044b3bbaa38b829fcf489.JPG" />
 
 > Tender slices of beef and deeply browned alliums are stir-fried with a savory, sweet sauce for a fast and intensely flavorful weeknight meal.
 
