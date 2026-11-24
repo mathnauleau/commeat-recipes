@@ -1,7 +1,9 @@
 # Pad Thaï au poulet
 **Tags:** Dinner
 
-<img alt="Pad Thaï au poulet" src="https://images.unsplash.com/photo-1559314809-0d155014e29e?auto=format&fit=crop&w=1200&q=80" />
+<img alt="Pad Thaï au poulet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCy45jwkvVp9Jy6tIcwA0Cch3N2lEPdqzBwuOWDVsCMGVzeE14cpiNfLpLjDqh4NA74eXcicOp7WbItZbVeIM0M49qZ62rASGhg_THW8&s=10" />
+
+
 
 > Des nouilles de riz sautées dans un wok avec du poulet, des œufs, des germes de soja, des cacahuètes et une sauce sucrée-salée-acide. Un plat complet, rapide et généreux, inspiré de la cuisine de rue thaïlandaise.
 
